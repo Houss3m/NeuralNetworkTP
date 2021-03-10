@@ -5,7 +5,7 @@ et l’autre vis dont la valeur est 0), des poids pour chaque neurone de notre r
 
 Notre programme se décompose en 6 parties :
 * Initialisez le reseau. 
-*Forward Propagate.
+* Forward Propagate.
 * Erreur de Back Propagate.
 * Reseau d’entrainement. 
 * Predire. 
